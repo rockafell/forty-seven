@@ -1,5 +1,5 @@
 const graph = {
- "name": "blockchain"
+ "name": "blockchain",
  "children": [
   {
    "name": "Smart Contract",
