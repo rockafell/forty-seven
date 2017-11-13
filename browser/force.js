@@ -29,7 +29,7 @@ const graph = {
     {
      "name": "Crypto currency",
      "children": [
-      {"name": "AspectRatioBanker", "size": 7074}
+      {"name": "Aspect Ratio Banker", "size": 7074}
      ]
     }
    ]
