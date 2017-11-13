@@ -1,8 +1,8 @@
 const graph = {
- "name": "smart contract",
+ "name": "blockchain"
  "children": [
   {
-   "name": "blockchain",
+   "name": "Smart Contract",
     size: 200000,
     className: 'hey',
    "children": [
